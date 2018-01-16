@@ -1,0 +1,12 @@
+I am a professor of Econometrics at the Department of Economics of the [Università degli Studi dell'Insubria](http://www.uninsubria.it). I am also a member of the Center for Nonlinear and Complex Systems, in the same University. I have a Laurea and a PhD in Industrial Engineering from Politecnico di Milano, a DEA in Mathematics applied to Social Sciences from Université Paris Dauphine/ENSAE and a PhD in Mathematics from Université Paris Dauphine. I have published in:
+- econometrics (_Journal of Econometrics_, _Journal of Applied Econometrics_), 
+- statistics (_Computational Statistics & Data Analysis_, _Statistical Science_), 
+- probability (_The Annals of Probability_, _Stochastic Processes and their Applications_), 
+- economics (_Journal of Economic Psychology_), 
+- mathematical analysis (_Journal of Mathematical Analysis and Applications_, _Annali della Scuola Normale Superiore di Pisa - Classe di Scienze_), 
+- mathematical psychology (_Journal of Mathematical Psychology_), 
+- numerical analysis (_Mathematics of Computation_, _Journal of Complexity_),
+- operations research (_Management Science_, _Journal of Optimization Theory and Applications_, _European Journal of Operational Research_, _Journal of Nonlinear and Convex Analysis_),
+- actuarial science (_ASTIN Bulletin_),
+- signal processing (_IEEE Communications Letters_) and
+- management (_Business & Society_, _Computational and Mathematical Organization Theory_).
