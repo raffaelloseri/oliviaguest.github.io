@@ -117,12 +117,11 @@
   title: 'What are we estimating when we fit Stevens' power law?'
   journal: Journal of Mathematical Psychology, Vol. 75C, pp. 137-149
   doi: 10.1016/j.jmp.2016.04.007
-  pdf:
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
+  pdf:
   arxiv:
   comments:
   github:
-
 
 - name: J022
   date: 2017-01-01
