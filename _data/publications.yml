@@ -72,9 +72,9 @@
     arxiv-id: '1707.04393'
 
 - name: J001
-  date: 2017-12-18
+  date: 2003
   type: journal
-  authors: Choirat, C., Hess, C. and Seri, R.
+  authors: Choirat, C., Hess, C. and <b>Seri, R.</b>
   title: 'A Functional Version of the Birkhoff Ergodic Theorem for a Normal Integrand: A Variational Approach'
   journal: The Annals of Probability, Vol. 31, No. 1, pp. 63-92
   doi: 10.1214/aop/1046294304
@@ -84,10 +84,36 @@
   comments:
   github:
 
+- name: J002
+  date: 2006
+  type: journal
+  authors: Mosconi, R. and <b>Seri, R.</b>
+  title: 'Non-Causality in Bivariate Binary Time Series'
+  journal: Journal of Econometrics, Vol. 132, No. 2, pp. 379-407
+  doi: 10.1016/j.jeconom.2005.02.005
+  pdf: ??
+  link: http://www.sciencedirect.com/science/article/pii/S0304407605000606
+  arxiv:
+  comments:
+  github:
+
+- name: J003
+  date: 2008
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Statistical Properties of Generalized Discrepancies'
+  journal: Mathematics of Computation, Vol. 77, pp. 421-446
+  doi: 10.1090/S0025-5718-07-01839-X
+  pdf: http://www.ams.org/journals/mcom/2008-77-261/S0025-5718-07-01839-X/S0025-5718-07-01839-X.pdf
+  link: http://www.ams.org/journals/mcom/2008-77-261/S0025-5718-07-01839-X/home.html
+  arxiv:
+  comments:
+  github:
+
 - name: J024
   date: 2017-12-18
   type: journal
-  authors: Secchi, D. and Seri, R.
+  authors: Secchi, D. and <b>Seri, R.</b>
   title: 'Experienced Discrimination in Home Mortgage Lending: A Case of Hospital Employees in Northern Italy'
   journal: Business & Society
   doi: 10.1177/0007650315575040
