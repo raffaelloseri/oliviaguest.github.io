@@ -71,6 +71,24 @@
     server: arXiv
     arxiv-id: '1707.04393'
 
+- name: J001
+  date: 2017-12-18
+  type: journal
+  authors: Secchi, D. and Seri, R.
+  title: 'Experienced Discrimination in Home Mortgage Lending: A Case of Hospital Employees in Northern Italy'
+  journal: The Annals of Probability
+  doi: 10.1214/aop/1046294304
+  pdf: https://peerj.com/articles/cs-142.pdf
+  link: https://peerj.com/articles/cs-142/
+  arxiv: https://arxiv.org/abs/1707.04393
+  comments:
+  github: ReScience/ReScience-article-2
+  preprint:
+    url: https://arxiv.org/abs/1707.04393
+    pdf: 'https://arxiv.org/pdf/1707.04393'
+    server: arXiv
+    arxiv-id: '1707.04393'
+
 - name: J024
   date: 2017-12-18
   type: journal
