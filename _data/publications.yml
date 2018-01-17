@@ -64,7 +64,7 @@
   link: https://peerj.com/articles/cs-142/
   arxiv: https://arxiv.org/abs/1707.04393
   comments:
-  github: ReScience/ReScience-article-2
+  github:
   preprint:
     url: https://arxiv.org/abs/1707.04393
     pdf: 'https://arxiv.org/pdf/1707.04393'
@@ -78,16 +78,11 @@
   title: 'A Functional Version of the Birkhoff Ergodic Theorem for a Normal Integrand: A Variational Approach'
   journal: The Annals of Probability, Vol. 31, No. 1, pp. 63-92
   doi: 10.1214/aop/1046294304
-  pdf: https://peerj.com/articles/cs-142.pdf
-  link: https://peerj.com/articles/cs-142/
-  arxiv: https://arxiv.org/abs/1707.04393
+  pdf: https://projecteuclid.org/download/pdf_1/euclid.aop/1046294304
+  link: https://projecteuclid.org/euclid.aop/1046294304
+  arxiv:
   comments:
-  github: ReScience/ReScience-article-2
-  preprint:
-    url: https://arxiv.org/abs/1707.04393
-    pdf: 'https://arxiv.org/pdf/1707.04393'
-    server: arXiv
-    arxiv-id: '1707.04393'
+  github:
 
 - name: J024
   date: 2017-12-18
@@ -100,7 +95,7 @@
   link: https://peerj.com/articles/cs-142/
   arxiv: https://arxiv.org/abs/1707.04393
   comments:
-  github: ReScience/ReScience-article-2
+  github:
   preprint:
     url: https://arxiv.org/abs/1707.04393
     pdf: 'https://arxiv.org/pdf/1707.04393'
