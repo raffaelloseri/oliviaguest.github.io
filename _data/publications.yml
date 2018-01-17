@@ -110,6 +110,32 @@
   comments:
   github:
 
+- name: J021
+  date: 2016-01-01
+  type: journal
+  authors: Bernasconi, M. and <b>Seri, R.</b>
+  title: 'What are we estimating when we fit Stevens' power law?'
+  journal: Journal of Mathematical Psychology, Vol. 75C, pp. 137-149
+  doi: 10.1016/j.jmp.2016.04.007
+  pdf: 
+  link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
+  arxiv:
+  comments:
+  github:
+
+- name: J022
+  date: 2017-01-01
+  type: journal
+  authors: <b>Seri, R.</b>
+  title: 'Statistical properties of <em>b</em>-adic diaphonies'
+  journal: Mathematics of Computation, Vol. 86, No. 304, pp. 799-828
+  doi: 10.1090/mcom/3148
+  pdf: http://www.ams.org/journals/mcom/2017-86-304/S0025-5718-2016-03148-8/mcom3148_AM.pdf
+  link: http://www.ams.org/journals/mcom/2017-86-304/S0025-5718-2016-03148-8/
+  arxiv:
+  comments:
+  github:
+
 - name: J023
   date: 2017-01-01
   type: journal
@@ -122,7 +148,6 @@
   arxiv:
   comments:
   github:
-  preprint:
 
 - name: J024
   date: 2017-12-18
@@ -136,8 +161,3 @@
   arxiv: https://arxiv.org/abs/1707.04393
   comments:
   github:
-  preprint:
-    url: https://arxiv.org/abs/1707.04393
-    pdf: 'https://arxiv.org/pdf/1707.04393'
-    server: arXiv
-    arxiv-id: '1707.04393'
