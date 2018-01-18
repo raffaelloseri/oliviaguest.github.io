@@ -110,6 +110,16 @@
   comments:
   github:
 
+- name: J004
+  date: 2008-01-01
+  type: journal
+  authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
+  title: 'Measurement by Subjective Estimation: Testing for Separable Representations'
+  journal: Journal of Mathematical Psychology, Vol. 52, No. 3, pp. 184-201
+  doi: 10.1016/j.jmp.2008.01.002
+  pdf: https://www.dropbox.com/s/lue1t1c0opw7j1l/J004.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0022249608000187
+
 - name: J005
   date: 2009-01-01
   type: journal
