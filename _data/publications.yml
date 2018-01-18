@@ -110,6 +110,16 @@
   comments:
   github:
 
+- name: J013
+  date: 2014-01-01
+  type: journal
+  authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
+  title: 'Empirical properties of group preference aggregation methods employed in AHP. Theory and evidence'
+  journal: European Journal of Operational Research, Vol. 232, No. 3, pp. 584-592
+  doi: 10.1016/j.ejor.2013.06.014
+  pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
+
 - name: J021
   date: 2016-01-01
   type: journal
