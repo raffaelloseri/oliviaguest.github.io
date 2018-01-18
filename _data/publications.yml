@@ -110,6 +110,19 @@
   comments:
   github:
 
+- name: J005
+  date: 2009-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Econometrics with Python'
+  journal: Journal of Applied Econometrics, Vol. 24, No. 4, pp. 698-704
+  doi: 10.1002/jae.1088
+  pdf: https://www.dropbox.com/s/x8albh37gt4a9wa/J005.pdf?dl=0
+  link: http://onlinelibrary.wiley.com/doi/10.1002/jae.1088/abstract
+  arxiv:
+  comments:
+  github:
+
 - name: J006
   date: 2010-01-01
   type: journal
