@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Olivia Guest
+name: Raffaello Seri
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -14,7 +14,7 @@ google_analytics: UA-42657104-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://oliviaguest.com
+url: https://raffaelloseri.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
