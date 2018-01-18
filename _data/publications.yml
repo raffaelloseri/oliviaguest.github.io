@@ -110,6 +110,16 @@
   comments:
   github:
 
+- name: J006
+  date: 2010-01-01
+  type: journal
+  authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
+  title: 'The Analytic Hierarchy Process and the Theory of Measurement'
+  journal: Management Science, Vol. 56, No. 4, pp. 699-711
+  doi: 10.1287/mnsc.1090.1123
+  pdf: https://www.dropbox.com/s/1j64o7s1wv22pto/J006.pdf?dl=0
+  link: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1090.1123
+
 - name: J013
   date: 2014-01-01
   type: journal
