@@ -153,6 +153,16 @@
   pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
 
+- name: J015
+  date: 2014-01-01
+  type: journal
+  authors: Bernasconi, M., Corazzini, L. and <b>Seri, R.</b>
+  title: 'Reference Dependent Preferences, Hedonic Adaptation and Tax Evasion: Does the Tax Burden Matter?'
+  journal: Journal of Economic Psychology, Vol. 40, pp. 103-118
+  doi: j.joep.2013.01.005
+  pdf: https://www.dropbox.com/s/mdl3zbvusrmeg4m/J015.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0167487013000196
+
 - name: J017
   date: 2014-01-01
   type: journal
@@ -222,8 +232,8 @@
   title: 'Experienced Discrimination in Home Mortgage Lending: A Case of Hospital Employees in Northern Italy'
   journal: Business & Society
   doi: 10.1177/0007650315575040
-  pdf: https://peerj.com/articles/cs-142.pdf
-  link: https://peerj.com/articles/cs-142/
-  arxiv: https://arxiv.org/abs/1707.04393
+  pdf: https://www.dropbox.com/s/12nys6burofpmwh/J024.pdf?dl=0
+  link: http://journals.sagepub.com/doi/10.1177/0007650315575040
+  arxiv:
   comments:
   github:
