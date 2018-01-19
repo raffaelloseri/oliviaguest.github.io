@@ -169,6 +169,16 @@
     server: arXiv
     arxiv-id: '1012.5409'
 
+- name: J018
+  date: 2015-01-01
+  type: journal
+  authors: <b>Seri, R.</b>
+  title: 'A Non-recursive Formula for the Higher Derivatives of the Hurwitz Zeta Function'
+  journal: Journal of Mathematical Analysis and Applications, Vol. 424, No. 1, pp. 826-834
+  doi: 10.1016/j.jmaa.2014.08.012
+  pdf: https://www.dropbox.com/s/f61f2l5o10jcs2n/J018.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0022247X14007513
+
 - name: J021
   date: 2016-01-01
   type: journal
