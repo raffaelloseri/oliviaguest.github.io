@@ -153,6 +153,21 @@
   pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
 
+- name: J017
+  date: 2014-01-01
+  type: journal
+  authors: Brandolini, L., Choirat, C., Colzani, L., Gigante, G., <b>Seri, R.</b> and Travaglini, G.
+  title: 'Quadrature Rules and Distribution of Points on Manifolds'
+  journal: Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, Vol. XIII, No. 4, pp. 889-923
+  doi: 10.2422/2036-2145.201103_007
+  pdf: https://www.dropbox.com/s/z9qvp6bqrdzz3eh/J017.pdf?dl=0
+  link: http://annaliscienze.sns.it/index.php?page=Article&id=323
+  preprint:
+    url: https://arxiv.org/abs/1012.5409
+    pdf: 'https://arxiv.org/pdf/1012.5409.pdf'
+    server: arXiv
+    arxiv-id: '1012.5409'
+
 - name: J021
   date: 2016-01-01
   type: journal
