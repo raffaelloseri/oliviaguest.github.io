@@ -163,6 +163,46 @@
   pdf: https://www.dropbox.com/s/a4nf2o907cklbum/J008.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249610001392
 
+- name: J009
+  date: 2012-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Estimation in discrete parameter models'
+  journal: Statistical Science, Vol. 27, No. 2, pp. 278-293.
+  doi: 10.1214/11-STS371
+  pdf: https://projecteuclid.org/download/pdfview_1/euclid.ss/1340110873
+  link: https://projecteuclid.org/euclid.ss/1340110873
+
+- name: J010
+  date: 2013-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Approximation of robust and chance-constrained programs'
+  journal: Journal of Optimization Theory and Applications, Vol. 158, No. 2, pp. 590-614.
+  doi: 10.1007/s10957-012-0230-3
+  pdf: https://www.dropbox.com/s/q4nkcwc2l9i59py/J010.pdf?dl=0
+  link: https://link.springer.com/article/10.1007%2Fs10957-012-0230-3
+
+- name: J011
+  date: 2013-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Computational Aspects of Cui-Freeden Statistics for Equidistribution on the Sphere'
+  journal: Mathematics of Computation, Vol. 82, No. 284, pp. 2137-2156.
+  doi: 10.1090/S0025-5718-2013-02698-1
+  pdf: https://www.dropbox.com/s/k0h2fsefw52hxoo/J011.pdf?dl=0
+  link: http://www.ams.org/journals/mcom/2013-82-284/S0025-5718-2013-02698-1/home.html
+
+- name: J012
+  date: 2013-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Numerical Properties of Generalized Discrepancies on Spheres of Arbitrary Dimension'
+  journal: Journal of Complexity, Vol. 29, No. 2, pp. 216-235.
+  doi: 10.1016/j.jco.2012.11.005
+  pdf: https://www.dropbox.com/s/eqiap9lhsnelnr4/J012.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0885064X12001045
+
 - name: J013
   date: 2014-01-01
   type: journal
@@ -173,6 +213,16 @@
   pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
 
+- name: J014
+  date: 2014-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Bootstrap Confidence Sets for the Aumann Mean of a Random Closed Set'
+  journal: Computational Statistics and Data Analysis, Vol. 71, pp. 803-817.
+  doi: 10.1016/j.csda.2012.10.015
+  pdf: https://www.dropbox.com/s/k0lkynf31xnfmvn/J014.pdf?dl=0
+  link: http://www.sciencedirect.com/science/article/pii/S0167947312003830
+
 - name: J015
   date: 2014-01-01
   type: journal
@@ -182,6 +232,16 @@
   doi: j.joep.2013.01.005
   pdf: https://www.dropbox.com/s/mdl3zbvusrmeg4m/J015.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0167487013000196
+
+- name: J016
+  date: 2014-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Essential intersection and approximation results for robust optimization'
+  journal: Journal of Nonlinear and Convex Analysis, Vol. 15, No. 5, pp. 979-1002.}
+  doi:
+  pdf: https://www.dropbox.com/s/e43td488puqxo3t/J016.pdf?dl=0
+  link: http://www.ybook.co.jp/online2/opjnca/vol15/p979.html
 
 - name: J017
   date: 2014-01-01
@@ -208,6 +268,26 @@
   doi: 10.1016/j.jmaa.2014.08.012
   pdf: https://www.dropbox.com/s/f61f2l5o10jcs2n/J018.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022247X14007513
+
+- name: J019
+  date: 2015-01-01
+  type: journal
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Comparison of Approximations for Compound Poisson Processes'
+  journal: ASTIN Bulletin, Vol. 45, No. 3, pp. 601-637.
+  doi: 10.1017/asb.2015.7
+  pdf: https://www.dropbox.com/s/pq6gxntr749q267/J019.pdf?dl=0
+  link: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/comparison-of-approximations-for-compound-poisson-processes/5ED181B671420EF36E37A717E3485F70
+
+- name: J020
+  date: 2015-01-01
+  type: journal
+  authors: <b>Seri, R.</b>
+  title: 'A Tight Bound on the Distance between a Noncentral Chi Square and a Normal Distribution'
+  journal: IEEE Communications Letters, Vol. 19, No. 11, pp. 1877-1880.
+  doi: 10.1109/LCOMM.2015.2461681
+  pdf: https://www.dropbox.com/s/hs41dr88bj0op3c/J020.pdf?dl=0
+  link: http://ieeexplore.ieee.org/document/7169520/
 
 - name: J021
   date: 2016-01-01
