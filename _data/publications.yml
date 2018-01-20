@@ -265,3 +265,16 @@
   arxiv:
   comments:
   github:
+
+- name: P006
+  date: 2012-01-01
+  type: proceedings
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'A Comparison of Approximations for Compound Poisson Processes'
+  journal: Proceedings of the 58th ISI World Statistics Congress, 21-26 August 2011, Dublin (IRL)
+  doi:
+  pdf: http://2011.isiproceedings.org/papers/950877.pdf
+  link: http://2011.isiproceedings.org/papers/950877.pdf
+  arxiv:
+  comments:
+  github:
