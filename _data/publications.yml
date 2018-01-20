@@ -266,6 +266,71 @@
   comments:
   github:
 
+- name: P001
+  date: 2001-01-01
+  type: proceedings
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Analytic Hierarchy Process, A Psychometric Approach'
+  journal: Actes du Congr\`{e}s ACSEG (Approches Connexionnistes en Economie et Sciences de Gestion), Huiti\`{e}me Rencontre Internationale}, pp. 47-56, 22-23 November 2001, Rennes (F)
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+
+- name: P002
+  date: 2003-01-01
+  type: proceedings
+  authors: <b>Seri, R.</b> and Rotondi, R.
+  title: 'Nonparametric Bayesian Estimation of Probability Density Function'
+  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, pp. 386-391, 4-6 September 2003, Treviso (I)
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+
+- name: P003
+  date: 2003-01-01
+  type: proceedings
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Statistical Properties of Generalized Discrepancies and Related Quantities'
+  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, pp. 146-151, 4-6 September 2003, Treviso (I)
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+
+- name: P004
+  date: 2006-01-01
+  type: proceedings
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Approximating weighted chi-square distributions'
+  journal: Atti del Convegno SER2006, Convegno Nazionale delle Ricerche sulle Serie Temporali, 18-19 April 2006, Villa Mondragone, Monte Porzio Catone (I)
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+
+- name: P005
+  date: 2006-01-01
+  type: proceedings
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Consistency of quasi-maximum likelihood estimators in ARCH models'
+  journal: Atti del Convegno SER2006, Convegno Nazionale delle Ricerche sulle Serie Temporali, 18-19 April 2006, Villa Mondragone, Monte Porzio Catone (I)
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+    
 - name: P006
   date: 2012-01-01
   type: proceedings
