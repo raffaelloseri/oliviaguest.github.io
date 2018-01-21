@@ -245,7 +245,8 @@
   type: journal
   authors: Secchi, D. and <b>Seri, R.</b>
   title: 'Controlling for <em>false negatives</em> in agent-based models. A review of power analysis in organizational research'
-  journal: Computational and Mathematical Organization Theory, Vol. 23, No. 1, pp. 94-121
+  journal: Computational and Mathematical Organization Theory
+  location: Vol. 23, No. 1, pp. 94-121
   doi: 10.1007/s10588-016-9218-0
   pdf: https://link.springer.com/content/pdf/10.1007%2Fs10588-016-9218-0.pdf
   link: https://link.springer.com/article/10.1007%2Fs10588-016-9218-0
