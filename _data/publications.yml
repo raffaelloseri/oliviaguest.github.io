@@ -4,7 +4,8 @@
   type: journal
   authors: Choirat, C., Hess, C. and <b>Seri, R.</b>
   title: 'A Functional Version of the Birkhoff Ergodic Theorem for a Normal Integrand: A Variational Approach'
-  journal: The Annals of Probability, Vol. 31, No. 1, pp. 63-92
+  journal: The Annals of Probability
+  pages: Vol. 31, No. 1, pp. 63-92
   doi: 10.1214/aop/1046294304
   pdf: https://projecteuclid.org/download/pdf_1/euclid.aop/1046294304
   link: https://projecteuclid.org/euclid.aop/1046294304
@@ -17,7 +18,8 @@
   type: journal
   authors: Mosconi, R. and <b>Seri, R.</b>
   title: 'Non-Causality in Bivariate Binary Time Series'
-  journal: Journal of Econometrics, Vol. 132, No. 2, pp. 379-407
+  journal: Journal of Econometrics
+  pages: Vol. 132, No. 2, pp. 379-407
   doi: 10.1016/j.jeconom.2005.02.005
   pdf: https://www.dropbox.com/s/345qmq1gb9pm6iq/J002.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0304407605000606
@@ -30,7 +32,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Statistical Properties of Generalized Discrepancies'
-  journal: Mathematics of Computation, Vol. 77, pp. 421-446
+  journal: Mathematics of Computation
+  pages: Vol. 77, pp. 421-446
   doi: 10.1090/S0025-5718-07-01839-X
   pdf: http://www.ams.org/journals/mcom/2008-77-261/S0025-5718-07-01839-X/S0025-5718-07-01839-X.pdf
   link: http://www.ams.org/journals/mcom/2008-77-261/S0025-5718-07-01839-X/home.html
@@ -43,7 +46,8 @@
   type: journal
   authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
   title: 'Measurement by Subjective Estimation: Testing for Separable Representations'
-  journal: Journal of Mathematical Psychology, Vol. 52, No. 3, pp. 184-201
+  journal: Journal of Mathematical Psychology
+  pages: Vol. 52, No. 3, pp. 184-201
   doi: 10.1016/j.jmp.2008.01.002
   pdf: https://www.dropbox.com/s/lue1t1c0opw7j1l/J004.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249608000187
@@ -53,7 +57,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Econometrics with Python'
-  journal: Journal of Applied Econometrics, Vol. 24, No. 4, pp. 698-704
+  journal: Journal of Applied Econometrics
+  pages: Vol. 24, No. 4, pp. 698-704
   doi: 10.1002/jae.1088
   pdf: https://www.dropbox.com/s/x8albh37gt4a9wa/J005.pdf?dl=0
   link: http://onlinelibrary.wiley.com/doi/10.1002/jae.1088/abstract
@@ -66,7 +71,8 @@
   type: journal
   authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
   title: 'The Analytic Hierarchy Process and the Theory of Measurement'
-  journal: Management Science, Vol. 56, No. 4, pp. 699-711
+  journal: Management Science
+  pages: Vol. 56, No. 4, pp. 699-711
   doi: 10.1287/mnsc.1090.1123
   pdf: https://www.dropbox.com/s/1j64o7s1wv22pto/J006.pdf?dl=0
   link: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1090.1123
@@ -76,7 +82,8 @@
   type: journal
   authors: Hess, C., Choirat, C. and <b>Seri, R.</b>
   title: 'Ergodic Theorems for extended-real valued random variables'
-  journal: Stochastic Processes and their Applications, Vol. 120, No. 10, pp. 1908-1919
+  journal: Stochastic Processes and their Applications
+  pages: Vol. 120, No. 10, pp. 1908-1919
   doi: 10.1016/j.spa.2010.05.008
   pdf: https://www.dropbox.com/s/31vapyzbbc2lb1d/J007.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0304414910001316
@@ -86,7 +93,8 @@
   type: journal
   authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
   title: 'A re-examination of the algebraic properties of the AHP as a ratio-scaling technique'
-  journal: Journal of Mathematical Psychology, Vol. 55, No. 2, pp. 152-165
+  journal: Journal of Mathematical Psychology
+  pages: Vol. 55, No. 2, pp. 152-165
   doi: 10.1016/j.jmp.2010.11.002
   pdf: https://www.dropbox.com/s/a4nf2o907cklbum/J008.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249610001392
@@ -96,7 +104,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Estimation in discrete parameter models'
-  journal: Statistical Science, Vol. 27, No. 2, pp. 278-293.
+  journal: Statistical Science
+  pages: Vol. 27, No. 2, pp. 278-293
   doi: 10.1214/11-STS371
   pdf: https://projecteuclid.org/download/pdfview_1/euclid.ss/1340110873
   link: https://projecteuclid.org/euclid.ss/1340110873
@@ -106,7 +115,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Approximation of robust and chance-constrained programs'
-  journal: Journal of Optimization Theory and Applications, Vol. 158, No. 2, pp. 590-614.
+  journal: Journal of Optimization Theory and Applications
+  pages: Vol. 158, No. 2, pp. 590-614
   doi: 10.1007/s10957-012-0230-3
   pdf: https://www.dropbox.com/s/q4nkcwc2l9i59py/J010.pdf?dl=0
   link: https://link.springer.com/article/10.1007%2Fs10957-012-0230-3
@@ -116,7 +126,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Computational Aspects of Cui-Freeden Statistics for Equidistribution on the Sphere'
-  journal: Mathematics of Computation, Vol. 82, No. 284, pp. 2137-2156.
+  journal: Mathematics of Computation
+  pages: Vol. 82, No. 284, pp. 2137-2156
   doi: 10.1090/S0025-5718-2013-02698-1
   pdf: https://www.dropbox.com/s/k0h2fsefw52hxoo/J011.pdf?dl=0
   link: http://www.ams.org/journals/mcom/2013-82-284/S0025-5718-2013-02698-1/home.html
@@ -126,7 +137,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Numerical Properties of Generalized Discrepancies on Spheres of Arbitrary Dimension'
-  journal: Journal of Complexity, Vol. 29, No. 2, pp. 216-235.
+  journal: Journal of Complexity
+  pages: Vol. 29, No. 2, pp. 216-235
   doi: 10.1016/j.jco.2012.11.005
   pdf: https://www.dropbox.com/s/eqiap9lhsnelnr4/J012.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0885064X12001045
@@ -136,7 +148,8 @@
   type: journal
   authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
   title: 'Empirical properties of group preference aggregation methods employed in AHP. Theory and evidence'
-  journal: European Journal of Operational Research, Vol. 232, No. 3, pp. 584-592
+  journal: European Journal of Operational Research
+  pages: Vol. 232, No. 3, pp. 584-592
   doi: 10.1016/j.ejor.2013.06.014
   pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
@@ -146,7 +159,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Bootstrap Confidence Sets for the Aumann Mean of a Random Closed Set'
-  journal: Computational Statistics and Data Analysis, Vol. 71, pp. 803-817.
+  journal: Computational Statistics and Data Analysis
+  pages: Vol. 71, pp. 803-817
   doi: 10.1016/j.csda.2012.10.015
   pdf: https://www.dropbox.com/s/k0lkynf31xnfmvn/J014.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0167947312003830
@@ -156,7 +170,8 @@
   type: journal
   authors: Bernasconi, M., Corazzini, L. and <b>Seri, R.</b>
   title: 'Reference Dependent Preferences, Hedonic Adaptation and Tax Evasion: Does the Tax Burden Matter?'
-  journal: Journal of Economic Psychology, Vol. 40, pp. 103-118
+  journal: Journal of Economic Psychology
+  pages: Vol. 40, pp. 103-118
   doi: j.joep.2013.01.005
   pdf: https://www.dropbox.com/s/mdl3zbvusrmeg4m/J015.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0167487013000196
@@ -166,7 +181,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Essential intersection and approximation results for robust optimization'
-  journal: Journal of Nonlinear and Convex Analysis, Vol. 15, No. 5, pp. 979-1002
+  journal: Journal of Nonlinear and Convex Analysis
+  pages: Vol. 15, No. 5, pp. 979-1002
   doi:
   pdf: https://www.dropbox.com/s/e43td488puqxo3t/J016.pdf?dl=0
   link: http://www.ybook.co.jp/online2/opjnca/vol15/p979.html
@@ -176,7 +192,8 @@
   type: journal
   authors: Brandolini, L., Choirat, C., Colzani, L., Gigante, G., <b>Seri, R.</b> and Travaglini, G.
   title: 'Quadrature Rules and Distribution of Points on Manifolds'
-  journal: Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, Vol. XIII, No. 4, pp. 889-923
+  journal: Annali della Scuola Normale Superiore di Pisa - Classe di Scienze
+  pages: Vol. XIII, No. 4, pp. 889-923
   arxiv: https://arxiv.org/abs/1012.5409
   doi: 10.2422/2036-2145.201103_007
   pdf: https://www.dropbox.com/s/z9qvp6bqrdzz3eh/J017.pdf?dl=0
@@ -192,7 +209,8 @@
   type: journal
   authors: <b>Seri, R.</b>
   title: 'A Non-recursive Formula for the Higher Derivatives of the Hurwitz Zeta Function'
-  journal: Journal of Mathematical Analysis and Applications, Vol. 424, No. 1, pp. 826-834
+  journal: Journal of Mathematical Analysis and Applications
+  pages: Vol. 424, No. 1, pp. 826-834
   doi: 10.1016/j.jmaa.2014.08.012
   pdf: https://www.dropbox.com/s/f61f2l5o10jcs2n/J018.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022247X14007513
@@ -202,7 +220,8 @@
   type: journal
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Comparison of Approximations for Compound Poisson Processes'
-  journal: ASTIN Bulletin, Vol. 45, No. 3, pp. 601-637.
+  journal: ASTIN Bulletin
+  pages: Vol. 45, No. 3, pp. 601-637
   doi: 10.1017/asb.2015.7
   pdf: https://www.dropbox.com/s/pq6gxntr749q267/J019.pdf?dl=0
   link: https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/comparison-of-approximations-for-compound-poisson-processes/5ED181B671420EF36E37A717E3485F70
@@ -212,7 +231,8 @@
   type: journal
   authors: <b>Seri, R.</b>
   title: 'A Tight Bound on the Distance between a Noncentral Chi Square and a Normal Distribution'
-  journal: IEEE Communications Letters, Vol. 19, No. 11, pp. 1877-1880.
+  journal: IEEE Communications Letters
+  pages: Vol. 19, No. 11, pp. 1877-1880
   doi: 10.1109/LCOMM.2015.2461681
   pdf: https://www.dropbox.com/s/hs41dr88bj0op3c/J020.pdf?dl=0
   link: http://ieeexplore.ieee.org/document/7169520/
@@ -222,7 +242,8 @@
   type: journal
   authors: Bernasconi, M. and <b>Seri, R.</b>
   title: 'What are we estimating when we fit Stevens'' power law?'
-  journal: Journal of Mathematical Psychology, Vol. 75C, pp. 137-149
+  journal: Journal of Mathematical Psychology
+  pages: Vol. 75C, pp. 137-149
   doi: 10.1016/j.jmp.2016.04.007
   pdf: https://www.dropbox.com/s/3ro5fcoj0lpjmlo/J021.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0022249616300177
@@ -232,7 +253,8 @@
   type: journal
   authors: <b>Seri, R.</b>
   title: 'Statistical properties of <em>b</em>-adic diaphonies'
-  journal: Mathematics of Computation, Vol. 86, No. 304, pp. 799-828
+  journal: Mathematics of Computation
+  pages: Vol. 86, No. 304, pp. 799-828
   doi: 10.1090/mcom/3148
   pdf: http://www.ams.org/journals/mcom/2017-86-304/S0025-5718-2016-03148-8/mcom3148_AM.pdf
   link: http://www.ams.org/journals/mcom/2017-86-304/S0025-5718-2016-03148-8/
@@ -246,7 +268,7 @@
   authors: Secchi, D. and <b>Seri, R.</b>
   title: 'Controlling for <em>false negatives</em> in agent-based models. A review of power analysis in organizational research'
   journal: Computational and Mathematical Organization Theory
-  location: Vol. 23, No. 1, pp. 94-121
+  pages: Vol. 23, No. 1, pp. 94-121
   doi: 10.1007/s10588-016-9218-0
   pdf: https://link.springer.com/content/pdf/10.1007%2Fs10588-016-9218-0.pdf
   link: https://link.springer.com/article/10.1007%2Fs10588-016-9218-0
@@ -260,6 +282,7 @@
   authors: Secchi, D. and <b>Seri, R.</b>
   title: 'Experienced Discrimination in Home Mortgage Lending: A Case of Hospital Employees in Northern Italy'
   journal: Business & Society
+  pages: Vol. 56, No. 7, pp. 1068-1104
   doi: 10.1177/0007650315575040
   pdf: https://www.dropbox.com/s/12nys6burofpmwh/J024.pdf?dl=0
   link: http://journals.sagepub.com/doi/10.1177/0007650315575040
@@ -272,7 +295,8 @@
   type: proceedings
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Analytic Hierarchy Process, A Psychometric Approach'
-  journal: Actes du Congrès ACSEG (Approches Connexionnistes en Economie et Sciences de Gestion), Huitième Rencontre Internationale, pp. 47-56, 22-23 November 2001, Rennes (F)
+  journal: Actes du Congrès ACSEG (Approches Connexionnistes en Economie et Sciences de Gestion), Huitième Rencontre Internationale, 22-23 November 2001, Rennes (F)
+  pages: pp. 47-56
   doi:
   pdf:
   link:
@@ -285,7 +309,8 @@
   type: proceedings
   authors: <b>Seri, R.</b> and Rotondi, R.
   title: 'Nonparametric Bayesian Estimation of Probability Density Function'
-  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, pp. 386-391, 4-6 September 2003, Treviso (I)
+  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, 4-6 September 2003, Treviso (I)
+  pages: pp. 386-391
   doi:
   pdf:
   link:
@@ -298,7 +323,8 @@
   type: proceedings
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Statistical Properties of Generalized Discrepancies and Related Quantities'
-  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, pp. 146-151, 4-6 September 2003, Treviso (I)
+  journal: Atti del Convegno S.CO. 2003, Modelli Complessi e Metodi Computazionali per la Stima e la Previsione, 4-6 September 2003, Treviso (I)
+  pages: pp. 146-151
   doi:
   pdf:
   link:
@@ -312,6 +338,7 @@
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Approximating weighted chi-square distributions'
   journal: Atti del Convegno SER2006, Convegno Nazionale delle Ricerche sulle Serie Temporali, 18-19 April 2006, Villa Mondragone, Monte Porzio Catone (I)
+  pages: pp. 221-224
   doi:
   pdf:
   link:
@@ -325,6 +352,7 @@
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'Consistency of quasi-maximum likelihood estimators in ARCH models'
   journal: Atti del Convegno SER2006, Convegno Nazionale delle Ricerche sulle Serie Temporali, 18-19 April 2006, Villa Mondragone, Monte Porzio Catone (I)
+  pages: pp. 91-94
   doi:
   pdf:
   link:
@@ -337,7 +365,8 @@
   type: proceedings
   authors: Choirat, C. and <b>Seri, R.</b>
   title: 'A Comparison of Approximations for Compound Poisson Processes'
-  journal: Proceedings of the 58th ISI World Statistics Congress, pp. 4290-4294, 21-26 August 2011, Dublin (IRL)
+  journal: Proceedings of the 58th ISI World Statistics Congress, 21-26 August 2011, Dublin (IRL)
+  pages: pp. 4290-4294
   doi:
   pdf: http://2011.isiproceedings.org/papers/950877.pdf
   link: http://2011.isiproceedings.org/papers/950877.pdf
