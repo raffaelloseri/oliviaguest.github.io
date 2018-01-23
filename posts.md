@@ -2,7 +2,7 @@
 layout: default
 ---
 <div id="header">
-<a href="/">Olivia Guest</a> 
+<a href="/">Raffaello Seri</a>
 </div>
 
 <div class="posts">
@@ -15,7 +15,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-  
+
  <!-- {% for repository in site.github.public_repositories %}
     * [{{ repository.name }}]({{ repository.html_url }})
   {% endfor %} -->
