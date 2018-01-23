@@ -5,6 +5,10 @@ permalink: /license/
 published: true
 ---
 
+The present website is a modified version of Olivia Guest's [website](//oliviaguest.com),
+available through her [GitHub repository](//github.com/oliviaguest/oliviaguest.github.io).
+The following page is an abridged version of her [license webpage](//oliviaguest.com/license/).
+
 <h2>Website Design</h2>
 
 <a href="//www.gnu.org/licenses/gpl-3.0.en.html"><img class="imgright" src="//www.gnu.org/graphics/gplv3-127x51.png" alt=" [GPLv3 Logo] " style="float: right; padding-left: 1em;"></a>
