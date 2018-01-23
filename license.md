@@ -22,4 +22,5 @@ The code used to generate [this website](//github.com/oliviaguest/oliviaguest.gi
 
 The text and images within this website (*unless* otherwise stated) are released under the <a href="http://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International</a> (CC BY 4.0).
 
-If you have any questions regarding licensing of code or content, feel free to <a href="mailto:contact@oliviaguest.com?Subject=Licensing" target="_top">contact me</a>.
+If you have any questions regarding licensing of code or content, feel free to <a href="mailto:raffaello.seri@gmail.com?Subject=Licensing" target="_top">contact me</a>
+or <a href="mailto:contact@oliviaguest.com?Subject=Licensing" target="_top">the author</a>.
