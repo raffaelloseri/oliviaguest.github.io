@@ -377,9 +377,10 @@
 - name: B016
   date: 2017-01-01
   type: book
-  authors: <b>Seri, R.</b> and Secchi, D. and
+  authors: <b>Seri, R.</b> and Secchi, D.
   title: 'How many times should one run a computational simulation?'
-  journal: Simulating Social Complexity - A Handbook, 2nd edition, edited by B. Edmonds and R. Meyer, Springer-Verlag Berlin Heidelberg
+  journal: Simulating Social Complexity - A Handbook, 2nd edition
+  addinfo: edited by B. Edmonds and R. Meyer, Springer-Verlag Berlin Heidelberg
   pages: pp. 229-251
   doi: http://dx.doi.org/10.1007/978-3-319-66948-9_11
   pdf:
