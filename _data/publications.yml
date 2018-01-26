@@ -374,6 +374,21 @@
   comments:
   github:
 
+- name: B015
+  date: 2016-01-01
+  type: book
+  authors: <b>Seri, R.</b>
+  title: 'Analytical approaches to agent-based models'
+  journal: Agent-Based Simulation of Organizational Behavior. New Frontiers of Social Science Research
+  addinfo: edited by D. Secchi and M. Neumann, Springer International Publishing
+  pages: pp. 265-286
+  doi: 10.1007/978-3-319-18153-0_13
+  pdf:
+  link: https://link.springer.com/chapter/10.1007%2F978-3-319-18153-0_13
+  arxiv:
+  comments:
+  github:
+
 - name: B016
   date: 2017-01-01
   type: book
@@ -382,7 +397,7 @@
   journal: Simulating Social Complexity - A Handbook, 2nd edition
   addinfo: edited by B. Edmonds and R. Meyer, Springer-Verlag Berlin Heidelberg
   pages: pp. 229-251
-  doi: http://dx.doi.org/10.1007/978-3-319-66948-9_11
+  doi: 10.1007/978-3-319-66948-9_11
   pdf:
   link: https://link.springer.com/chapter/10.1007%2F978-3-319-66948-9_11
   arxiv:
