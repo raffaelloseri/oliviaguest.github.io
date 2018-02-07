@@ -45,11 +45,11 @@
         <a href="{{ pub.pdf }}" title="PDF"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
       {% endif %}
 
-      {% if pub.scopus %}
-        <iframe height="50" data="{{ pub.scopus }}"></iframe>
-      {% endif %}
-
     </span>
+
+    {% if pub.scopus %}
+      <iframe height="50" data="{{ pub.scopus }}"></iframe>
+    {% endif %}
 
     <!--{% if pub.slides %}
     <p style="margin-top:0.25em">
