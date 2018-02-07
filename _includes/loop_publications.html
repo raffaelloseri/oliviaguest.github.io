@@ -185,6 +185,11 @@
 
     </li>
     {% endif %}
+
+    {% if pub.scopus %}
+      <object height="42" data="{{ pub.scopus }}"></object>
+    {% endif %}
+    
   {% endfor %}
 
 </ul>
