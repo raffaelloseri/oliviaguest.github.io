@@ -12,8 +12,6 @@
   arxiv:
   comments:
   github:
-  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1214/aop/1046294304&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
-
 
 - name: J002
   date: 2006-01-01
