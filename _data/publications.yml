@@ -27,6 +27,7 @@
   arxiv:
   comments:
   github:
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1016/j.jeconom.2005.02.005&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 - name: J003
   date: 2008-01-01
@@ -41,6 +42,7 @@
   arxiv:
   comments:
   github:
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1090/S0025-5718-07-01839-X&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 - name: J004
   date: 2008-01-01
