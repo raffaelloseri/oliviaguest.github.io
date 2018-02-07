@@ -10,8 +10,8 @@
 
       {{ pub.authors }} ({% if pub.status %}{{ pub.status }}{% else %}{{pub.date | date: "%Y"}}{% endif %}). {% if pub.doi %}
       <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.title }}</a>. {% elsif pub.pdf %}
-      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal %}<i>{{ pub.journal }}</i>{% endif %}{% if pub.addinfo %}, {{ pub.addinfo }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}. {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>.
-       {% if pub.scopus %} <object height="50" data="{{ pub.scopus }}"></object>
+      <a href="{{ pub.pdf }}">{{ pub.title }}</a>. {% else %} {{ pub.title }}. {% endif %} {% if pub.journal %}<i>{{ pub.journal }}</i>{% endif %}{% if pub.addinfo %}, {{ pub.addinfo }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}. {% if pub.doi %}doi: <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>.{% endif %}
+       {% if pub.scopus %} <object height="50" data="{{ pub.scopus }}"></object>{% endif %}
        {% endif %}
 
       <span class="small-icons">
