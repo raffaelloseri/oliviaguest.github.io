@@ -48,9 +48,6 @@
 
     </span>
 
-    {% if pub.scopus %}
-      <object height="45" data="{{ pub.scopus }}"></object>
-    {% endif %}
 
 
     <!--{% if pub.slides %}
@@ -61,6 +58,11 @@
 
     </li>
     {% endif %}
+
+    {% if pub.scopus %}
+      <object height="42" data="{{ pub.scopus }}"></object>
+    {% endif %}
+
   {% endfor %}
 
 </ul>
