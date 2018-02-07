@@ -12,7 +12,7 @@
   arxiv:
   comments:
   github:
-  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1214/aop/1046294304&apiKey=258ba26a2b56cacbf22247e33d0f20b7&httpAccept=text/html
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1214/aop/1046294304&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 
 - name: J002
