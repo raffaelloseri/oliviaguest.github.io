@@ -49,8 +49,9 @@
     </span>
 
     {% if pub.scopus %}
-      <iframe height="50" data="{{ pub.scopus }}"></iframe>
+      <a target="_blank" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=0037070197&origin=inward"><image src="{{ pub.scopus }}" border="0" alt="cited by count"/></a>
     {% endif %}
+
 
     <!--{% if pub.slides %}
     <p style="margin-top:0.25em">
