@@ -48,6 +48,10 @@
 
     </span>
 
+    {% if pub.scopus %}
+      <iframe height="50" data="{{ pub.scopus }}"></iframe>
+    {% endif %}
+
     <!--{% if pub.slides %}
     <p style="margin-top:0.25em">
       <b>Slides</b>: {{ pub.slides.authors }} ({{ pub.slides.year }}): <a href="//dx.doi.org/{{ pub.slides.doi }}">{{ pub.slides.title }}</a>. figshare. doi: <a href="//dx.doi.org/{{ pub.slides.doi }}">{{ pub.slides.doi }}</a>.
