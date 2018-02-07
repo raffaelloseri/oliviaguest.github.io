@@ -186,10 +186,10 @@
   title: 'Reference Dependent Preferences, Hedonic Adaptation and Tax Evasion: Does the Tax Burden Matter?'
   journal: Journal of Economic Psychology
   pages: Vol. 40, pp. 103-118
-  doi: j.joep.2013.01.005
+  doi: 10.1016/j.joep.2013.01.005
   pdf: https://www.dropbox.com/s/mdl3zbvusrmeg4m/J015.pdf?dl=0
   link: http://www.sciencedirect.com/science/article/pii/S0167487013000196
-  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=j.joep.2013.01.005&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1016/j.joep.2013.01.005&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 - name: J016
   date: 2014-01-01
@@ -214,7 +214,7 @@
   doi: 10.2422/2036-2145.201103_007
   pdf: https://www.dropbox.com/s/z9qvp6bqrdzz3eh/J017.pdf?dl=0
   link: http://annaliscienze.sns.it/index.php?page=Article&id=323
-  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.2422/2036-2145.201103_007&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
+  scopus: http://api.elsevier.com/content/abstract/citation-count?eid=2-s2.0-84934094963&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
   preprint:
     url: https://arxiv.org/abs/1012.5409
     pdf: 'https://arxiv.org/pdf/1012.5409.pdf'
