@@ -398,7 +398,7 @@
   comments:
   github:
 
-- name: B017
+- name: B007
   date: 2005-01-01
   type: book
   authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
@@ -409,6 +409,22 @@
   doi:
   pdf: http://csjarchive.cogsci.rpi.edu/proceedings/2005/docs/p244.pdf
   link: http://csjarchive.cogsci.rpi.edu/proceedings/2005/docs/p244.pdf
+  arxiv:
+  comments:
+  github:
+  scopus:
+
+- name: B010
+  date: 2007-01-01
+  type: book
+  authors: <b>Seri, R.</b> and Choirat, C.
+  title: 'Generalized Discrepancies on the Sphere'
+  journal: PAMM-Proceedings in Applied Mathematics and Mechanics
+  addinfo:
+  pages: Vol. 7, No. 1, pp. 2020039-2020040
+  doi: 10.1002/pamm.200700216
+  pdf: https://www.dropbox.com/s/y4pbjpifrgnli7h/B010.pdf?dl=0
+  link: http://onlinelibrary.wiley.com/doi/10.1002/pamm.200700216/abstract
   arxiv:
   comments:
   github:
