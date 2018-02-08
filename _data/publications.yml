@@ -398,6 +398,21 @@
   comments:
   github:
 
+- name: B011
+  date: 2009-01-01
+  type: book
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'On embedding Gretl in a Python module'
+  journal: Econometrics with <em>Gretl</em>. Proceedings of First <em>Gretl</em> Conference
+  addinfo: edited by I. D&iacute;az-Emparanza, P. Mariel and M.V. Esteban, Euskal Herriko Unibertsitatea
+  pages: pp. 219-227
+  doi:
+  pdf: https://www.dropbox.com/s/ee620n2llk9qap6/B011.pdf?dl=0
+  link:
+  arxiv:
+  comments:
+  github:
+
 - name: B015
   date: 2016-01-01
   type: book
