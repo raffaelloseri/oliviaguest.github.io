@@ -398,6 +398,22 @@
   comments:
   github:
 
+- name: B017
+  date: 2005-01-01
+  type: book
+  authors: Bernasconi, M., Choirat, C. and <b>Seri, R.</b>
+  title: 'Estimation of Separable Representations in Psychophysical Experiments'
+  journal: Proceedings of CogSci 2005, XXVII Annual Meeting of the Cognitive Science Society, 21-23 July 2005, Stresa (I)
+  addinfo: edited by B.G. Bara, L. Barsalou and M. Bucciarelli, Lawrence Erlbaum Associates
+  pages: pp. 244-249
+  doi:
+  pdf: http://csjarchive.cogsci.rpi.edu/proceedings/2005/docs/p244.pdf
+  link: http://csjarchive.cogsci.rpi.edu/proceedings/2005/docs/p244.pdf
+  arxiv:
+  comments:
+  github:
+  scopus:
+
 - name: B011
   date: 2009-01-01
   type: book
@@ -412,6 +428,22 @@
   arxiv:
   comments:
   github:
+
+- name: B014
+  date: 2012-01-01
+  type: book
+  authors: <b>Seri, R.</b> and Choirat, C.
+  title: 'Comparison of Quadrature Rules for the Wielandt-Nystr&ouml;m Method with Statistical Applications'
+  journal: AIP Conf. Proc. 1479, Numerical Aanalysis and Applied Mathematics ICNAAM 2012: International Conference of Numerical Analysis and Applied Mathematics
+  addinfo: American Institute of Physics
+  pages: pp. 2282-2285
+  doi: 10.1063/1.4756649
+  pdf: https://www.dropbox.com/s/lrvwxivpba0d63j/B014.pdf?dl=0
+  link: http://aip.scitation.org/doi/abs/10.1063/1.4756649
+  arxiv:
+  comments:
+  github:
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1063/1.4756649&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 - name: B015
   date: 2016-01-01
