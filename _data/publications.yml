@@ -461,6 +461,22 @@
   github:
   scopus: http://api.elsevier.com/content/abstract/citation-count?eid=2-s2.0-80755127008&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
+- name: B013
+  date: 2012-01-01
+  type: book
+  authors: Choirat, C. and <b>Seri, R.</b>
+  title: 'Computational aspects of discrepancies for equidistribution on the hypercube'
+  journal: Proceedings of COMPSTAT 2012, 27-31 August 2012, Limassol (CY)
+  addinfo: edited by A. Colubi, ISI (International Statistical Institute)
+  pages: pp. 167-178
+  doi:
+  pdf: https://www.dropbox.com/s/g1fa72kidtxxl5b/B013.pdf?dl=0
+  link:
+  arxiv:
+  comments:
+  github:
+  scopus:
+
 - name: B014
   date: 2012-01-01
   type: book
