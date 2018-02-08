@@ -414,6 +414,38 @@
   github:
   scopus:
 
+- name: B008
+  date: 2006-01-01
+  type: book
+  authors: Choirat, C., and <b>Seri, R.</b>
+  title: 'The Asymptotic Distribution of Quadratic Discrepancies'
+  journal: Monte Carlo and Quasi-Monte Carlo Methods 2004
+  addinfo: edited by H. Niederreiter and D. Talay, Springer Verlag
+  pages: pp. 61-76
+  doi: 10.1007/3-540-31186-6_5
+  pdf: https://www.dropbox.com/s/850qx3ls0ls8ruz/B008.pdf?dl=0
+  link: https://link.springer.com/chapter/10.1007%2F3-540-31186-6_4
+  arxiv:
+  comments:
+  github:
+  scopus:
+
+- name: B009
+  date: 2006-01-01
+  type: book
+  authors: Choirat, C., Hess, C. and <b>Seri, R.</b>
+  title: 'Approximation of Stochastic Programming Problems'
+  journal: Monte Carlo and Quasi-Monte Carlo Methods 2004
+  addinfo: edited by H. Niederreiter and D. Talay, Springer Verlag
+  pages: pp. 45-60
+  doi: 10.1007/3-540-31186-6_4
+  pdf: https://www.dropbox.com/s/e8v4i7vhtzfa178/B009.pdf?dl=0
+  link: https://link.springer.com/chapter/10.1007%2F3-540-31186-6_4
+  arxiv:
+  comments:
+  github:
+  scopus:
+
 - name: B010
   date: 2007-01-01
   type: book
