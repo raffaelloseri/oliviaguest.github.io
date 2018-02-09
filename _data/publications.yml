@@ -211,10 +211,11 @@
   journal: Annali della Scuola Normale Superiore di Pisa - Classe di Scienze
   pages: Vol. XIII, No. 4, pp. 889-923
   arxiv: https://arxiv.org/abs/1012.5409
-  doi: 10.2422/2036-2145.201103_007
+  doi:
   pdf: https://www.dropbox.com/s/z9qvp6bqrdzz3eh/J017.pdf?dl=0
   link: http://annaliscienze.sns.it/index.php?page=Article&id=323
   scopus: http://api.elsevier.com/content/abstract/citation-count?eid=2-s2.0-84934094963&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
+  scopus_id: 2-s2.0-84934094963
   preprint:
     url: https://arxiv.org/abs/1012.5409
     pdf: 'https://arxiv.org/pdf/1012.5409.pdf'
