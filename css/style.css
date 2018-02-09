@@ -114,18 +114,9 @@ body {
   padding-top: 1em;
 }
 
-#img-link, #img-link img{
-   text-decoration: none !important;
-   border:0px !important;
-   outline:none;
-   border-width: 0px;
-   outline-width:0px;
-   border-bottom: none;
-}
-
 .container {
   margin: 0 auto;
-  max-width: 550px !important;
+  max-width: 750px !important;
   padding: 0 10px;
   width: 100%;
 }
@@ -591,6 +582,12 @@ a:hover img {
   padding-top: 0.5em;
   /*     overflow: hidden; */
   min-height: 85px;
+}
+
+.plx-usage li, .plx-capture li, .plx-socialMedia li, .plx-citation li, .plx-mention li {
+  padding-bottom: 0em;
+  padding-top: 0em;
+  min-height: 0px;
 }
 
 .misc li {
