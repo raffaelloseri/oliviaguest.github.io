@@ -8,7 +8,7 @@
 
       <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed" style="float:right;clear:both"></div>
 
-      <div style="float:right;clear:both">
+      <div style="text-decoration:none;float:right;clear:both">
         <a href="https://plu.mx/plum/a/?doi={% if pub.doi %}{{ pub.doi }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
       </div>
 
