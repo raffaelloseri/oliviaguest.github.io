@@ -2,10 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-#Letting Search Engines know - HTTPS config
-url: https://rseri.me
-enforce_ssl: rseri.me
-
 # Name of your site (displayed in the header)
 name: Raffaello Seri
 
