@@ -202,6 +202,7 @@
   pdf: https://www.dropbox.com/s/e43td488puqxo3t/J016.pdf?dl=0
   link: http://www.ybook.co.jp/online2/opjnca/vol15/p979.html
   scopus: http://api.elsevier.com/content/abstract/citation-count?eid=2-s2.0-84905659141&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
+  scopus_id: 2-s2.0-84905659141
 
 - name: J017
   date: 2014-01-01
