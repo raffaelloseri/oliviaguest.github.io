@@ -79,6 +79,10 @@
 
     <div data-badge-popover="right" data-badge-type="donut" data-doi="{{ pub.preprint.doi }}" data-arxiv-id="{{ pub.preprint.arxiv-id }}" data-hide-no-mentions="true" class="altmetric-embed" style="float:right;clear:both"></div>
 
+    <div style="float:right;clear:both">
+      <a href="{% if pub.doi %}https://plu.mx/plum/a/?doi={{ pub.doi }}{% else %}https://plu.mx/plum/a/?elsevier_id={{ pub.scopus_id }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
+    </div>
+
     {{ pub.authors }} ({{pub.date | date: "%Y"}}). {% if pub.preprint.doi %}<a href="//dx.doi.org/{{ pub.preprint.doi }}">{{ pub.title }}</a>.{% endif %} {% if pub.preprint.url %}<a href="{{ pub.preprint.url }}">{{ pub.title }}</a>.{% endif %}
 
 
@@ -139,6 +143,10 @@
     <li class="cv">
 
       <div data-badge-popover="right" data-badge-type="donut" data-doi="{% if pub.status == 'in press' %}{{ pub.preprint.doi }}{% else %}{{ pub.doi }}{% endif %}" data-hide-no-mentions="true" class="altmetric-embed" style="float:right;clear:both"></div>
+
+      <div style="float:right;clear:both">
+        <a href="{% if pub.doi %}https://plu.mx/plum/a/?doi={{ pub.doi }}{% else %}https://plu.mx/plum/a/?elsevier_id={{ pub.scopus_id }}{% endif %}" data-popup="right" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-captures="true"></a>
+      </div>
 
       {{ pub.authors }} ({% if pub.status %}{{ pub.status }}{% else %}{{pub.date | date: "%Y"}}{% endif %}). {% if pub.doi %}
       <a href="//dx.doi.org/{{ pub.doi }}">{{ pub.title }}</a>. {% elsif pub.pdf %}
