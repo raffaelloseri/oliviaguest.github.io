@@ -13,11 +13,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-.plumx-plum-print-popup
-{
-  text-decoration: none;
-}
-
 body {
   font-weight: 300;
   letter-spacing: .01em;
