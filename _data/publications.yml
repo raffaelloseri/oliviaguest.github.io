@@ -316,6 +316,22 @@
   github:
   scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1177/0007650315575040&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
+
+- name: J025
+  date: 2018-01-01
+  type: journal
+  authors: Hess, C. L. and <b>Seri, R.</b>
+  title: 'Generic Consistency for Approximate Stochastic Programming and Statistical Problems'
+  journal: SIAM Journal on Optimization
+  pages:
+  doi:
+  pdf:
+  link:
+  arxiv:
+  comments:
+  github:
+  scopus:
+
 - name: P001
   date: 2001-01-01
   type: proceedings
