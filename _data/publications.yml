@@ -573,3 +573,35 @@
   comments:
   github:
   scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1007/978-3-319-66948-9_11&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
+
+- name: B017
+  date: 2017-01-01
+  type: book
+  authors: Brambilla, C. and <b>Seri, R.</b>
+  title: 'Settore bancario e frontiere di efficienza'
+  journal: Oligopolio, Istituzioni e Per- formance delle Imprese / Oligopoly, Institutions and Firms’ Performance
+  addinfo: edited by L. Fanti, Pisa University Press
+  pages: pp. 241-260
+  doi:
+  pdf: https://www.dropbox.com/s/59tlbxkpocw2iwg/B017.pdf?dl=0
+  link:
+  arxiv:
+  comments:
+  github:
+  scopus:
+
+- name: B018
+  date: 2017-01-01
+  type: book
+  authors: Secchi, D. and <b>Seri, R.</b>
+  title: 'Power analysis for agent-based modeling. Determining the appropriate number of runs'
+  journal: Proceedings of AISB Annual Convention 2017
+  addinfo: 2017 Annual Convention of the Society for the Study of Artificial Intelligence and the Simulation of Behaviour, AISB 2017; Bath; United Kingdom; 18 April 2017 through 21 April 2017
+  pages: pp. 46-47
+  doi:
+  pdf: https://www.dropbox.com/s/u50b2pis95paxiy/B018.pdf?dl=0
+  link:
+  arxiv:
+  comments:
+  github:
+  scopus: http://api.elsevier.com/content/abstract/citation-count?eid=2-s2.0-85041194661&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
