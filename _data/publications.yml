@@ -330,7 +330,7 @@
   arxiv:
   comments:
   github:
-  scopus:
+  scopus: http://api.elsevier.com/content/abstract/citation-count?doi=10.1137/17M1156769&apiKey=98cb9a9298694767e54d8bbe1505c633&httpAccept=text/html
 
 - name: P001
   date: 2001-01-01
