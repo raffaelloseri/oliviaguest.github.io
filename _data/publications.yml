@@ -339,15 +339,15 @@
   title: 'Nonparametric Estimation and Inference in Psychological and Economic Experiments'
   journal:
   pages:
-  arxiv: http://arxiv.org/abs/1904.11156
+  arxiv: https://arxiv.org/abs/1904.11156
   doi:
   pdf:
   link:
   scopus:
   scopus_id:
   preprint:
-    url: http://arxiv.org/abs/1904.11156
-    pdf: 'http://arxiv.org/abs/1904.11156'
+    url: https://arxiv.org/abs/1904.11156
+    pdf: 'https://arxiv.org/abs/1904.11156'
     server: arXiv
     arxiv-id: '1904.11156'
 
