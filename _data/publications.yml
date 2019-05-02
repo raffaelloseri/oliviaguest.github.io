@@ -334,7 +334,7 @@
 
 - name: W058
   date: 2019-01-01
-  type: journal
+  type: preprint
   authors: <b>Seri, R.</b>, Centorrino, S. and Bernasconi, M.
   title: 'Nonparametric Estimation and Inference in Psychological and Economic Experiments'
   journal:
