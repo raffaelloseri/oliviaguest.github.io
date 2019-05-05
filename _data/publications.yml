@@ -334,22 +334,17 @@
 
 - name: W058
   date: 2019-01-01
-  type: journal
+  type: preprint
   authors: <b>Seri, R.</b>, Centorrino, S. and Bernasconi, M.
   title: 'Nonparametric Estimation and Inference in Psychological and Economic Experiments'
-  journal:
-  pages:
   arxiv: https://arxiv.org/abs/1904.11156
-  doi:
-  pdf: https://arxiv.org/pdf/1904.11156
-  link: https://arxiv.org/pdf/1904.11156
-  scopus:
-  scopus_id:
+  osf:
+  overleaf:
   preprint:
-    url: https://arxiv.org/abs/1904.11156
-    pdf: 'https://arxiv.org/abs/1904.11156'
-    server: arXiv
-    arxiv-id: '1904.11156'
+  url: https://arxiv.org/abs/1904.11156
+  pdf: https://arxiv.org/pdf/1904.11156
+  server: arXiv
+  arxiv-id: '1904.11156'
 
 - name: P001
   date: 2001-01-01
